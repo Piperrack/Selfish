@@ -1,0 +1,6 @@
+{
+    "board": "digistump:avr:digispark-tiny",
+    "sketch": "light.ino",
+    "programmer": "digistump:micronucleusprog",
+    "port": "/dev/ttyS0"
+}
